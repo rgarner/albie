@@ -1,0 +1,16 @@
+http://www.sce-web.com/
+https://sce-web.com/?q=user/login&destination=node
+https://sce-web.com/misc/draggable.png
+https://sce-web.com/misc/drupal.js?K
+https://sce-web.com/misc/grippie.png
+https://sce-web.com/misc/jquery.js?K
+https://sce-web.com/misc/menu-collapsed.png
+https://sce-web.com/modules/node/node.css?K
+http://www.sce-web.com/robots.txt
+https://sce-web.com/sites/all/modules/browse_news/browse_news.css?K
+https://sce-web.com/sites/all/modules/fckeditor/plugins/imgassist/imgassist.gif
+https://sce-web.com/sites/all/modules/filefield/filefield.css?K
+https://sce-web.com/sites/all/themes/zen/sce/images/agency/teacher1.png
+https://sce-web.com/sites/all/themes/zen/sce/layout-garland.css?K
+https://sce-web.com/sites/all/themes/zen/zen/images/tab-bar.png
+https://sce-web.com/sites/all/themes/zen/zen/tabs.css?K
